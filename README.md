@@ -22,7 +22,7 @@ advanced machine-learning approaches.
 ## 🛠️ Installation
 
 ```bash
-git clone [https://github.com/yourusername/GRB-Light-Curve-Reconstruction-2.git](https://github.com/yourusername/GRB-Light-Curve-Reconstruction-2.git)
+git clone [https://github.com/Krishnanjan-Sil/GRB-Light-Curve-Reconstruction-2.git](https://github.com/Krishnanjan-Sil/GRB-Light-Curve-Reconstruction-2.git)
 cd GRB-Light-Curve-Reconstruction-2
 pip install -r requirements.txt
 ```
