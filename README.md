@@ -19,6 +19,12 @@ Multilayer Perceptron (MLP). These advancements highlight the potential of GRBs 
 theoretical model discrimination via LC parameters, serving as standard candles, and facilitating GRB redshift predictions through
 advanced machine-learning approaches.
 
+## 🛠️ Installation
+
+```bash
+git clone [https://github.com/yourusername/GRB-Light-Curve-Reconstruction-2.git](https://github.com/yourusername/GRB-Light-Curve-Reconstruction-2.git)
+cd GRB-Light-Curve-Reconstruction-2
+pip install -r requirements.txt
 
 ## 📚 Citation
 
