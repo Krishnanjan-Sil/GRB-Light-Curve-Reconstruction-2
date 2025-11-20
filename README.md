@@ -1,4 +1,8 @@
 # GRB-Light-Curve-Reconstruction-2
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.23681-b31b1b.svg)](https://arxiv.org/abs/2506.23681)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+
 Reconstructs 521 Swift GRB light curves using 7 ML/statistical models (e.g., QSS, CNN-BiLSTM, DGP). The Quartic Smoothing Spline (QSS) reduces parameter uncertainty by ~43-48%, enhancing GRBs as cosmological standard candles. Includes preprocessing, training, and uncertainty pipelines.
 
 
