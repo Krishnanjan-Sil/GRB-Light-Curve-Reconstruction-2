@@ -25,6 +25,7 @@ advanced machine-learning approaches.
 git clone [https://github.com/yourusername/GRB-Light-Curve-Reconstruction-2.git](https://github.com/yourusername/GRB-Light-Curve-Reconstruction-2.git)
 cd GRB-Light-Curve-Reconstruction-2
 pip install -r requirements.txt
+```
 
 ## 📚 Citation
 
