@@ -69,7 +69,7 @@ pip install -r requirements.txt
 | **BNN** | Deep Learning | A. Madhan |
 
 
-GitHub profile links: A. Manchanda: https://github.com/1Adi1812 , A. Kaushal: https://github.com/Enthusiast101 , K. Gupta: https://github.com/iskhushii , Krishnanjan Sil:  .
+GitHub profile links: A. Manchanda: https://github.com/1Adi1812 , A. Kaushal: https://github.com/Enthusiast101 , K. Gupta: https://github.com/iskhushii , Krishnanjan Sil: https://github.com/Krishnanjan-Sil .
 
 ## 📚 Citation
 
@@ -87,7 +87,7 @@ If you use this code or dataset in your research, please cite the following pape
 }
 ```
 
-**Authors:** A. Kaushal, A. Manchanda, M. G. Dainotti, K. Gupta, Z. Nogala, A. Madhan, S. Naqi, R. Kumar, V. Oad, N. Indoriya, K. Sil, D. H. Hartmann, M. Bogdan, A. Pollo, J.X. Prochaska, N. Fraija. 
+**Authors:** A. Kaushal, A. Manchanda, M. G. Dainotti, K. Gupta, Z. Nogala, A. Madhan, S. Naqi, R. Kumar, V. Oad, N. Indoriya, Krishnanjan Sil, D. H. Hartmann, M. Bogdan, A. Pollo, J.X. Prochaska, N. Fraija. 
 
 ### **Contact**
 
