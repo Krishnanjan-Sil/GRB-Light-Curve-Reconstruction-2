@@ -7,7 +7,7 @@ This repository contains the codes used for the 7 models explored in the paper:
 
 **Kaushal et al., "Multi-Model Framework for Reconstructing Gamma-Ray Burst Light Curves" (2025).**
 
-The code implements a comparative study of multiple machine learning and deep learning methods for reconstructing gamma-ray burst (GRB) light curves.
+The codes implement multiple statistical and deep learning methods for reconstructing gamma-ray burst light curves.
 
 
 ## Abstract
