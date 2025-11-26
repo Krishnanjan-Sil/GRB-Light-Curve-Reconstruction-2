@@ -75,7 +75,7 @@ GitHub profile links: A. Manchanda: https://github.com/1Adi1812 , A. Kaushal:  ,
 
 If you use this code or dataset in your research, please cite the following paper:
 
-> [cite_start]**Authors:** A. Kaushal, A. Manchanda, M. G. Dainotti, K. Gupta, Z. Nogala, A. Madhan, S. Naqi, R. Kumar, V. Oad, N. Indoriya, K. Sil, D. H. Hartmann, M. Bogdan, A. Pollo, J.X. Prochaska, N. Fraija [cite: 937-943]. 
+> **Authors:** A. Kaushal, A. Manchanda, M. G. Dainotti, K. Gupta, Z. Nogala, A. Madhan, S. Naqi, R. Kumar, V. Oad, N. Indoriya, K. Sil, D. H. Hartmann, M. Bogdan, A. Pollo, J.X. Prochaska, N. Fraija. 
 
 ## 📚 Citation
 
