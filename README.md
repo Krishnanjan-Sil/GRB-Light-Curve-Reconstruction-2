@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2506.23681-b31b1b.svg)](https://arxiv.org/abs/2506.23681)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
-This repository contains all the code used in the paper:
+This repository contains the codes used for the 7 models explored in the paper:
 
 **Kaushal et al., "Multi-Model Framework for Reconstructing Gamma-Ray Burst Light Curves" (2025).**
 
