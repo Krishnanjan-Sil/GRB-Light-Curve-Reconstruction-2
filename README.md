@@ -75,12 +75,6 @@ GitHub profile links: A. Manchanda: https://github.com/1Adi1812 , A. Kaushal:  ,
 
 If you use this code or dataset in your research, please cite the following paper:
 
-**Authors:** A. Kaushal, A. Manchanda, M. G. Dainotti, K. Gupta, Z. Nogala, A. Madhan, S. Naqi, R. Kumar, V. Oad, N. Indoriya, K. Sil, D. H. Hartmann, M. Bogdan, A. Pollo, J.X. Prochaska, N. Fraija. 
-
-## 📚 Citation
-
-If you use this code or dataset in your research, please cite the following paper:
-
 ```bibtex
 @misc{kaushal2025multimodelframeworkreconstructinggammaray,
       title={Multi-Model Framework for Reconstructing Gamma-Ray Burst Light Curves}, 
@@ -92,6 +86,8 @@ If you use this code or dataset in your research, please cite the following pape
       url={[https://arxiv.org/abs/2506.23681](https://arxiv.org/abs/2506.23681)}, 
 }
 ```
+
+**Authors:** A. Kaushal, A. Manchanda, M. G. Dainotti, K. Gupta, Z. Nogala, A. Madhan, S. Naqi, R. Kumar, V. Oad, N. Indoriya, K. Sil, D. H. Hartmann, M. Bogdan, A. Pollo, J.X. Prochaska, N. Fraija. 
 
 ### **Contact**
 
