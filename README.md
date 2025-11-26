@@ -66,7 +66,7 @@ pip install -r requirements.txt
 | **Deep Gaussian Process** | Deep Learning | K. Gupta |
 | **CNN-BiLSTM** | Deep Learning | S. Naqi |
 | **TCN** | Deep Learning | Krishnanjan Sil, A. Manchanda |
-| **BNN** | Deep Learning | A. Madhan |
+| **BNN** | Deep Learning | A. Madhan, A. Manchanda |
 
 
 GitHub profile links: A. Manchanda: https://github.com/1Adi1812 , A. Kaushal: https://github.com/Enthusiast101 , K. Gupta: https://github.com/iskhushii , Krishnanjan Sil: https://github.com/Krishnanjan-Sil .
