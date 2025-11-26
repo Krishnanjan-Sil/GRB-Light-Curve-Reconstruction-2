@@ -11,7 +11,10 @@ The code implements a comparative study of multiple machine learning and deep le
 
 
 ## Abstract
-Mitigating data gaps in Gamma-ray bursts (GRBs) light curves (LCs) is crucial for cosmological research, enhancing the precision of parameters, assuming perfect satellite conditions for complete LC coverage with no gaps. This analysis improves the applicability of the two-dimensional Dainotti relation, which connects the rest-frame end time of the plateau emission (Ta) and its luminosity (La), derived from the fluxes (Fa). The study expands on a previous 521 GRB sample by incorporating seven models:
+Mitigating data gaps in Gamma-ray bursts (GRBs) light curves (LCs) is crucial for cosmological research, enhancing the precision of parameters, assuming perfect satellite conditions for complete LC coverage with no gaps. This analysis improves the applicability of the two-dimensional Dainotti relation, which connects the rest-frame end time of the plateau emission (Ta) and its luminosity (La), derived from the fluxes (Fa). 
+
+The study expands on a previous 521 GRB sample by incorporating seven models:
+
 -Deep Gaussian Process (DGP)
 -Temporal Convolutional Network (TCN)
 -Hybrid CNN with Bidirectional
@@ -66,3 +69,9 @@ If you use this code or dataset in your research, please cite the following pape
       primaryClass={astro-ph.HE},
       url={[https://arxiv.org/abs/2506.23681](https://arxiv.org/abs/2506.23681)}, 
 }
+```
+
+### **Contact**
+
+For questions or suggestions, contact:
+Anshul Kaushal – kaushal1anshul@gmail.com
