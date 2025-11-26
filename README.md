@@ -55,6 +55,28 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
+
+## 👥 Models & Contributors
+
+| Model Name | Type | Contributors |
+| :--- | :--- | :--- |
+| **Quartic Smoothing Spline** | Statistical | Krishnanjan Sil |
+| **Polynomial Curve Fitting** | Statistical | A. Kaushal |
+| **Isotonic Regression** | Statistical | Z. Nogala |
+| **Deep Gaussian Process** | Deep Learning | K. Gupta |
+| **CNN-BiLSTM** | Deep Learning | S. Naqi |
+| **TCN** | Deep Learning | Krishnanjan Sil, A. Manchanda |
+| **BNN** | Deep Learning | A. Madhan |
+
+
+GitHub profile links: A. Manchanda: https://github.com/1Adi1812 , A. Kaushal:  , K. Gupta: https://github.com/iskhushii , Krishnanjan Sil:  .
+
+## 📚 Citation
+
+If you use this code or dataset in your research, please cite the following paper:
+
+> [cite_start]**Authors:** A. Kaushal, A. Manchanda, M. G. Dainotti, K. Gupta, Z. Nogala, A. Madhan, S. Naqi, R. Kumar, V. Oad, N. Indoriya, K. Sil, D. H. Hartmann, M. Bogdan, A. Pollo, J.X. Prochaska, N. Fraija [cite: 937-943]. 
+
 ## 📚 Citation
 
 If you use this code or dataset in your research, please cite the following paper:
