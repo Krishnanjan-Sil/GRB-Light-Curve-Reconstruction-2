@@ -8,7 +8,7 @@ Original file is located at
 
 Contributors: Krishnanjan Sil, A. Manchanda
 
-GitHub Profile: https://github.com/Krishnanjan-Sil
+GitHub Profile: https://github.com/Krishnanjan-Sil , https://github.com/1Adi1812
 """
 
 # Commented out IPython magic to ensure Python compatibility.
