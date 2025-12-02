@@ -63,7 +63,7 @@ pip install -r requirements.txt
 | **Quartic Smoothing Spline** | Statistical | Krishnanjan Sil |
 | **Polynomial Curve Fitting** | Statistical | A. Kaushal |
 | **Isotonic Regression** | Statistical | Z. Nogala |
-| **Deep Gaussian Process** | Deep Learning | K. Gupta |
+| **Deep Gaussian Process** | Deep Learning | K. Gupta, Ritik Kumar |
 | **CNN-BiLSTM** | Deep Learning | S. Naqi |
 | **TCN** | Deep Learning | Krishnanjan Sil, A. Manchanda |
 | **BNN** | Deep Learning | A. Madhan, A. Manchanda |
