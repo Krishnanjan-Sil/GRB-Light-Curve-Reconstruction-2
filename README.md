@@ -1,6 +1,6 @@
 # Multi-Model Framework for Reconstructing Gamma-Ray Burst Light Curves
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Journal of High Energy Astrophysics](https://img.shields.io/badge/Journal-of-High-Energy-Astrophysics-doi.org/10.1016/j.jheap.2025.100519-orange.svg)](https://doi.org/10.1016/j.jheap.2025.100519)
+[![Journal of High Energy Astrophysics](https://img.shields.io/badge/Journal-of-High-Energy-Astrophysics-orange.svg)](https://doi.org/10.1016/j.jheap.2025.100519)
 [![arXiv](https://img.shields.io/badge/arXiv-2506.23681-b31b1b.svg)](https://arxiv.org/abs/2506.23681)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
