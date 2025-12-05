@@ -76,6 +76,7 @@ GitHub profile links: A. Manchanda: https://github.com/1Adi1812 , A. Kaushal: ht
 If you use this code or dataset in your research, please cite the following paper:
 
 ```bibtex
+<!--
 @misc{kaushal2025multimodelframeworkreconstructinggammaray,
       title={Multi-Model Framework for Reconstructing Gamma-Ray Burst Light Curves}, 
       author={A. Kaushal and A. Manchanda and M. G. Dainotti and K. Gupta and Z. Nogala and A. Madhan and S. Naqi and Ritik Kumar and V. Oad and N. Indoriya and Krishnanjan Sil and D. H. Hartmann and M. Bogdan and A. Pollo and JX. Prochaska and N. Fraija},
@@ -84,6 +85,19 @@ If you use this code or dataset in your research, please cite the following pape
       archivePrefix={arXiv},
       primaryClass={astro-ph.HE},
       url={[https://arxiv.org/abs/2506.23681](https://arxiv.org/abs/2506.23681)}, 
+}
+-->
+@article{KAUSHAL2025100519,
+title = {Multi-Model Framework for Reconstructing Gamma-Ray Burst Light Curves},
+journal = {Journal of High Energy Astrophysics},
+pages = {100519},
+year = {2025},
+issn = {2214-4048},
+doi = {https://doi.org/10.1016/j.jheap.2025.100519},
+url = {https://www.sciencedirect.com/science/article/pii/S2214404825002009},
+author = {A. Kaushal and A. Manchanda and M.G. Dainotti and K. Gupta and Z. Nogala and A. Madhan and S. Naqi and Ritik Kumar and V. Oad and N. Indoriya and Krishnanjan Sil and D.H. Hartmann and M. Bogdan and A. Pollo and J.X. Prochaska and N. Fraija},
+keywords = {-ray bursts, statistical methods, machine learning, light curve reconstruction},
+abstract = {Mitigating data gaps in Gamma-ray bursts (GRBs) light curves (LCs) is crucial for cosmological research, enhancing the precision of parameters, assuming perfect satellite conditions for complete LC coverage with no gaps. This analysis improves the applicability of the two-dimensional Dainotti relation, which connects the rest-frame end time of the plateau emission (Ta) and its luminosity (La), derived from the fluxes (Fa). The study expands on a previous 521 GRB sample by incorporating seven models: Deep Gaussian Process (DGP), Temporal Convolutional Network (TCN), Hybrid CNN with Bidirectional Long Short-Term Memory (CNN-BiLSTM), Bayesian Neural Network (BNN), Polynomial Curve Fitting, Isotonic Regression, and Quartic Smoothing Spline (QSS). Results indicate that QSS significantly reduces uncertainty across parameters–43.5% for log Ta, 43.2% for log Fa, and 48.3% for α, outperforming the other models where α denotes the slope post-plateau based on Willingale’s 2007 functional form. The Polynomial Curve Fitting model demonstrates moderate uncertainty reduction across parameters, while CNN-BiLSTM has the lowest outlier rate for α at 0.77%. These models broaden the application of machine-learning techniques in GRB LC analysis, enhancing uncertainty estimation and parameter recovery, and complement traditional methods like the Attention U-Net and Multilayer Perceptron (MLP). These advancements highlight the potential of GRBs as cosmological probes, supporting their role in theoretical model discrimination via LC parameters, serving as standard candles, and facilitating GRB redshift predictions through advanced machine-learning approaches.}
 }
 ```
 
