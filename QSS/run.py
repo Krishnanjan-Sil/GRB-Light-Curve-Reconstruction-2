@@ -30,8 +30,6 @@ import torch  # For tensor operations, used in cross-validation
 from google.colab import drive
 drive.mount('/content/drive/')  # Mounts Google Drive to the '/content/drive/' directory in Colab
 
-# Install the pygam library (though not used in this code, likely a leftover import)
-!pip install pygam
 
 # Define the base folder path for saving outputs (figures, CSVs, and MSE data)
 folder_path = "/content/drive/MyDrive/QSP_test_1a/Saved_Outputs/"
