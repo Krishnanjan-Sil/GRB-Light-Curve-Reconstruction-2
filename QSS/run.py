@@ -24,13 +24,11 @@ import matplotlib.pyplot as plt  # For creating plots
 # %matplotlib inline
 # Ensures plots are displayed inline in Jupyter/Colab notebooks
 
-# Import specific modules from scikit-learn for preprocessing and cross-validation
-from sklearn import preprocessing  # For data normalization (though not directly used here)
+# Import specific modules from scikit-learn for cross-validation
+
 from sklearn.model_selection import KFold  # For splitting data into training/validation sets for cross-validation
-from tqdm import tqdm  # For displaying progress bars (not used in this code, but imported)
 from scipy import stats as st  # For statistical distributions and fitting
-from scipy.sparse import issparse  # For checking if data is in sparse format (not used here)
-from scipy.interpolate import UnivariateSpline  # For fitting cubic smoothing splines
+from scipy.interpolate import UnivariateSpline  # For fitting quartic smoothing splines
 import torch  # For tensor operations, used in cross-validation
 
 # Mount Google Drive to access input files and save outputs
@@ -51,7 +49,7 @@ os.makedirs(f"{folder_path}/MSE_data", exist_ok=True)  # Directory for saving cr
 def run_model(grb_name):
     """
     Reads a trimmed CSV for a given GRB, takes log(time) & log(flux),
-    fits a cubic smoothing spline via scipy.interpolate.UnivariateSpline,
+    fits a quartic smoothing spline via scipy.interpolate.UnivariateSpline,
     reconstructs the light curve (adding noise using residual σ),
     plots original vs. reconstructed (with updated vertical error bars),
     saves figure + CSV, and finally runs 5‐fold CV to record train/validation MSE.
